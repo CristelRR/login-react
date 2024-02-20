@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "nombre": "Alondra",
+      "password": "123",
+      "email": "alondra@gmail.com",
+      "tipo": "administrador"
+    },
+    {
+      "id": "2",
+      "nombre": "Juan",
+      "password": "123",
+      "email": "juan@gmail.com",
+      "tipo": "usuario"
+    }
+  ]
+}
